@@ -1,3 +1,6 @@
+# Author - Maximillian Renga
+# CST 205
+# 5.3.18
 from PIL import Image
 import sys
 import random
