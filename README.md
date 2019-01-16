@@ -7,15 +7,13 @@ Date: 5/14/2018
 
 
 How to run the program:
-	1. Download the Zip File in Github(link below)
-	2. Download the skate videos from the given link:
-		https://www.dropbox.com/sh/l0l7e8pvzvujc0d/AAB5iEigejfebrIkf00Hm37ba?dl=0
-	3. Run the program through powershell
-	4. Enter specific keywords otherwise 1st video will play
-		a. help button will open up a help.txt to look up what keywords can be used.
-	5. Dropdown box, select and click how fast the video speed
-	6. Video will run in specified speed
-	6. Quit button will exit the program. 
+1. Download the Zip File in Github(link below)
+2. Download the skate videos from the given link: https://www.dropbox.com/sh/l0l7e8pvzvujc0d/AAB5iEigejfebrIkf00Hm37ba?dl=0
+3. Run the program through powershell
+4. Enter specific keywords otherwise 1st video will play. Help button will open up a help.txt to look up what keywords can be used.
+5. Dropdown box, select and click how fast the video speed
+6. Video will run in specified speed
+7. Quit button will exit the program. 
 
 Link to the Git Repository: 
 	https://github.com/econ909Git/cst205GroupProject
