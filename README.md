@@ -1,9 +1,8 @@
-README file
+<h1>Skate Trick Video App</h1></br>
 
-Name of Project: Learning Sick Tricks in Slow-Motion
-Team Members: Daichi Kanasugi, John Economides, Maximillian Renga
-Class: CST 205: Multimedia Design
-Date: 5/14/2018
+Team Members: Daichi Kanasugi, John Economides, Maximillian Renga</br>
+Class: CST 205: Multimedia Design</br>
+Date: 5/14/2018</br>
 
 
 How to run the program:
